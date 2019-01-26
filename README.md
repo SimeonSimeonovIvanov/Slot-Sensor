@@ -1,4 +1,4 @@
 # Slot-Sensor
 Slot-Sensor
 
-![Screen Shot](https://photos.app.goo.gl/qJWMBqCtTqxVaimK6)<br>
+![Screen Shot](https://photos.app.goo.gl/qJWMBqCtTqxVaimK6)
